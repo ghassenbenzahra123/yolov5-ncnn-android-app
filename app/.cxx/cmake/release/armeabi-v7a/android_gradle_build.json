@@ -1,0 +1,54 @@
+{
+  "stringTable": {
+    "0": "C:/Users/Ben Zahra/Desktop/ncnn-android-yolov5/app/.cxx/cmake/release/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi24 --gcc-toolchain=\"C:/Users/Ben Zahra/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64\" --sysroot=\"C:/Users/Ben Zahra/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot\" -Dyolov5ncnn_EXPORTS -isystem \"C:/Users/Ben Zahra/Desktop/ncnn-android-yolov5/app/src/main/jni/armeabi-v7a/include/ncnn\" -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -Oz -DNDEBUG -fPIC -fno-rtti -fno-exceptions"
+  },
+  "buildFiles": [
+    "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\Ben Zahra\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Ben Zahra\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\OSDependentTargets.cmake",
+    "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\glslangTargets.cmake",
+    "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\glslangTargets-release.cmake",
+    "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\SPIRVTargets.cmake",
+    "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn-release.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Ben Zahra\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Ben Zahra\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Release-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\Ben Zahra\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\.cxx\\cmake\\release\\armeabi-v7a\" yolov5ncnn",
+      "buildType": "release",
+      "toolchain": "3134986646",
+      "abi": "armeabi-v7a",
+      "artifactName": "yolov5ncnn",
+      "files": [
+        {
+          "src": "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\src\\main\\jni\\yolov5ncnn_jni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\Ben Zahra\\Desktop\\ncnn-android-yolov5\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libyolov5ncnn.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3134986646": {
+      "cppCompilerExecutable": "C:\\Users\\BENZAH~1\\AppData\\Local\\Android\\Sdk\\ndk\\211~1.635\\TOOLCH~1\\llvm\\prebuilt\\WINDOW~1\\bin\\CLANG_~1.EXE"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

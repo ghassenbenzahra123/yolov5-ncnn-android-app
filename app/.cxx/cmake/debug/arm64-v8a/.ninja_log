@@ -1,0 +1,11 @@
+# ninja log v5
+1	668	656512448	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7836310a4bc2f51d
+669	1422	656512448	C:/Users/Ben Zahra/Desktop/ncnn-android-yolov5/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so	de1b1dde2575c53d
+4	919	656584351	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7836310a4bc2f51d
+919	1717	656584352	C:/Users/Ben Zahra/Desktop/ncnn-android-yolov5/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so	de1b1dde2575c53d
+1	672	656584850	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7836310a4bc2f51d
+672	1326	656584850	C:/Users/Ben Zahra/Desktop/ncnn-android-yolov5/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so	de1b1dde2575c53d
+2	686	656584998	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7836310a4bc2f51d
+686	1330	656584999	C:/Users/Ben Zahra/Desktop/ncnn-android-yolov5/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so	de1b1dde2575c53d
+2	801	656585429	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	7836310a4bc2f51d
+801	1565	656585430	C:/Users/Ben Zahra/Desktop/ncnn-android-yolov5/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5ncnn.so	de1b1dde2575c53d
